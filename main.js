@@ -1,0 +1,15 @@
+"use strict";
+var fname = "Ali";
+var fname1 = "Asad";
+var fname2 = "Muhammad";
+var fn = "Hamza";
+var num = 212;
+var ischeck = true;
+console.log(fname);
+console.log(fname1);
+console.log(fname2);
+console.log(fname1);
+console.log(fn);
+console.log(num);
+console.log(ischeck);
+console.log(fname);
